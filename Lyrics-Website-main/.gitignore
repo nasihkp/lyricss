@@ -63,5 +63,4 @@ ehthumbs.db
 *.temp
 
 # React specific
-public/
 *.cache
