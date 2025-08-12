@@ -15,3 +15,7 @@ export default defineConfig({
     historyApiFallback: true, // Ensures React Router works on all routes
   },
 });
+export default defineConfig({
+  base: '/',
+  plugins: [vue()]
+})
